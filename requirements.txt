@@ -1,0 +1,19 @@
+# 基本パッケージ
+numpy>=1.19.5
+requests>=2.25.1
+GitPython>=3.1.18
+logging>=0.5.1.2
+
+# RAGエンジン関連
+faiss-cpu>=1.7.2
+sentence-transformers>=2.2.2
+beautifulsoup4>=4.9.3
+html2text>=2020.1.16
+
+# 図表生成
+plantuml>=0.3.0
+
+# 開発ツール
+pytest>=6.2.5
+black>=21.6b0
+flake8>=3.9.2 
